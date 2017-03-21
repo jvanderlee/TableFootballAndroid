@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.3.9\8b4d1ccbb09daafd17aa3eba99af31ad8aecf505\aws-android-sdk-s3-2.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b4d1ccbb09daafd17aa3eba99af31ad8aecf505">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.3.9_3091554870c154900fffb5ddc82fc4e7bcd6dfdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.3.9\2fa9ee0e95329912656c8ccd98991b195a3ea539\aws-android-sdk-core-2.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fa9ee0e95329912656c8ccd98991b195a3ea539">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.3.9_55c200f03e0a805e71a0230f4682b67c800bd459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\106597730f09fd5017bae8a18114a5f209e15cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_8f02878aadb86cf4afb1bb50711872ddf90a0c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\959bc96e5b163591bb52364d501fbe25cbaab33a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_f51763bc7057166ca7ce79e9bc9151f5a48b8cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\28aae642f97dd9598dc8c1b3a7d8681b46160bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_6b62aad100e59fe915fe25cd7960efae90c901c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\5e04858ea50b77841134c00b67112002f412c88e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_8a6aa23e6b7b5f35d7acbe399efc015510e5cb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.3.9\5d12b8c7c10b169cdddb3d6c09c800a42dfba6b7\aws-android-sdk-ddb-2.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d12b8c7c10b169cdddb3d6c09c800a42dfba6b7">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.3.9_9f0d5f77e1f9bfb4cc9968214e9c8831145a382f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\dc8df056ef048d2fd10dc4868a935479f9d4e55c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_6776cd6b031fdfa06aba29cc53971cd729855893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\d731837cfebfb53bae1be2b814a3bf0f39488f03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_7360ef1d954db64033329a66f8ec9d724272fcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_6c5d2e4d6859b074901e4959c05026728b6f7f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\c0f906408631793632276c7d7f0eff89b4f972b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_471a66dc0329030542d414d1d1ca49bf835ebdc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\a8c8a2a536696cf0f2061f61b9a9fe6e6041d86c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_d257671d79f73b6001d46a959a188207b5ffaef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.3.9\b64f410bf2f4d4db5642f066d9bad54d2ea4608c\aws-android-sdk-ddb-mapper-2.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64f410bf2f4d4db5642f066d9bad54d2ea4608c">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-mapper-2.3.9_f1b8934c3f5df3d8f5f633ccebb5d3c71951a4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jelle\.android\build-cache\446d9570e8134310adf7be63322770a1ab4d9cce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Jelle\Desktop\TableFootbal\app\build\intermediates\pre-dexed\debug\classes_b5040713452cf5316ed42f29e7a2c8cd6628ac87.jar" />
+    </item>
+
+</items>

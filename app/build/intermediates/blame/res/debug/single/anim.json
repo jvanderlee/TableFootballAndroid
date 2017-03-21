@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelle\\Desktop\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Jelle\\.android\\build-cache\\d731837cfebfb53bae1be2b814a3bf0f39488f03\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lars\\AndroidStudioProjects\\TableFootbal\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Lars\\.android\\build-cache\\628885e98181afc9d71898d45db8d7a6d598844f\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]
